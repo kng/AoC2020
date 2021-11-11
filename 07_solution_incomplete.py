@@ -1,3 +1,6 @@
+# --- Day 7: Handy Haversacks ---
+# https://adventofcode.com/2020/day/7
+
 import time
 import re
 simple = 0  # 0 = puzzle input, 1 = part one, 2 = part two
