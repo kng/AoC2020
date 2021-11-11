@@ -1,3 +1,6 @@
+# --- Day 3: Toboggan Trajectory ---
+# https://adventofcode.com/2020/day/3
+
 import time
 simple = False
 verbose = 0
