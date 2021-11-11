@@ -1,3 +1,6 @@
+# --- Day 4: Passport Processing ---
+# https://adventofcode.com/2020/day/4
+
 import time
 simple = False
 verbose = 0
